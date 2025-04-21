@@ -16,10 +16,9 @@ Este projeto é ideal para quem deseja ter um controle simples e eficiente sobre
 
 ## Tecnologias Utilizadas
 
-- Linguagem de programação (exemplo: JavaScript, Python, etc. – ajustar conforme o projeto)
-- Framework ou biblioteca (exemplo: React, Vue, Django, etc. – ajustar conforme o projeto)
-- Banco de dados (exemplo: SQLite, MongoDB, etc. – ajustar conforme o projeto)
-- Outras ferramentas e dependências relevantes
+- Python
+- Django
+- PostgreSQL
 
 ## Como Rodar o Projeto
 
