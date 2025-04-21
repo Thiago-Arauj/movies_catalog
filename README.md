@@ -24,9 +24,8 @@ Este projeto é ideal para quem deseja ter um controle simples e eficiente sobre
 
 ### Pré-requisitos
 
-- Ter instalado [Node.js](https://nodejs.org/) (se for um projeto em JavaScript/Node)
-- Ter instalado [Python](https://www.python.org/) (se for um projeto em Python)
-- Outras dependências específicas (exemplo: banco de dados, bibliotecas)
+- Ter instalado [Python](https://www.python.org/)
+- Ter instalado [Pgadmin](https://www.pgadmin.org/download/)
 
 ### Passos para instalação
 
